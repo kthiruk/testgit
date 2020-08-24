@@ -1,5 +1,5 @@
 {
-	"inbound_dir": "s3://thirkarnew/input",
+	"inbound_dir": "s3://unknown/input/input",
 	"checkpoint_dir": "/tmp/checkpoint",
-	"outbound_dir": "s3://thirkarnew/output/csvcopy.orc"
+	"outbound_dir": "s3://unknown/output/csvcopy.orc"
 }
