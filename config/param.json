@@ -1,0 +1,5 @@
+{
+	"inbound_dir": "s3://thirkarnew/input",
+	"checkpoint_dir": "/tmp/checkpoint",
+	"outbound_dir": "s3://thirkarnew/output/csvcopy.orc"
+}
